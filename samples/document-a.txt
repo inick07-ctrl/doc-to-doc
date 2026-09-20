@@ -1,0 +1,4 @@
+Alpha line one
+Shared second line
+Only in A
+Shared fourth line

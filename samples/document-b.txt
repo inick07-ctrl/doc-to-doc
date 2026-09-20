@@ -1,0 +1,4 @@
+Alpha line one
+Shared second line CHANGED
+Shared fourth line
+Only in B
